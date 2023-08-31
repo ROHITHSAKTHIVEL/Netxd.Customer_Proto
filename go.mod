@@ -1,4 +1,4 @@
-module github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto.git
+module github.com/ROHITHSAKTHIVEL/Netxd_Customer_Proto
 
 go 1.20
 
